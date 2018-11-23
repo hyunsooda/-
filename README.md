@@ -1,4 +1,4 @@
-# permutation + combination + division 
+# permutation + combination + division  (분할알고리즘 or 조나누기알고리즘)
 
 <img width="308" alt="2018-11-24 3 25 26" src="https://user-images.githubusercontent.com/12508269/48956855-a52c2000-ef98-11e8-959d-b4876be05df3.png">
 
