@@ -218,6 +218,4 @@ function divisionAndExtractNumberOfCases(strArr,divisionNum) {
 }
 
 
-출처: http://eat2go.tistory.com/59 [Front-end_dev]
 
-출처: http://eat2go.tistory.com/59 [Front-end_dev]
